@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.exe
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.deps.json
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.runtimeconfig.json
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.runtimeconfig.dev.json
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.dll
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp3.1\MazeSolver.pdb
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.AssemblyInfo.cs
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.dll
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.pdb
+C:\Users\willi\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp3.1\MazeSolver.genruntimeconfig.cache
